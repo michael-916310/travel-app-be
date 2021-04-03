@@ -2,4 +2,5 @@
 Prop3=19,11
 [InternetShortcut]
 IDList=
-URL=https://michael-916310-test.herokuapp.com/countries
+URL=https://michael-916310-travel-app-be.herokuapp.com/countries
+HotKey=0
