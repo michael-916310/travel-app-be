@@ -1,0 +1,228 @@
+{
+	"_id":{"$oid":"605b43e07df442dcd1b1eca2"},
+	"capitalLocation":{
+		"coordinates":[{"$numberDouble":"12.496365"},{"$numberDouble":"41.902782"}],
+		"type":"Point"
+		},
+	"imageUrl":"https://www.atlanticcouncil.org/wp-content/uploads/2020/09/Rome-coroavirus-large-1024x683.jpg",
+	"videoUrl":"https://youtu.be/FlRwssZYRM0",
+	"currency":"EUR",
+	"ISOCode":"IT",
+	"localizations":[
+		{
+			"lang":"en",
+			"capital":"Rome",
+			"description":"Italy (Italian: Italia [iˈtaːlja]), officially the Italian Republic (Italian: Repubblica Italiana [reˈpubːlika itaˈljaːna]), is a country consisting of a peninsula delimited by the Alps and several islands surrounding it. Italy is located in Southern Europe, and is also considered part of Western Europe. A unitary parliamentary republic with Rome as its capital, the country covers a total area of 301,340 km2 (116,350 sq mi) and shares land borders with France, Switzerland, Austria, Slovenia, and the enclaved microstates of Vatican City and San Marino. Italy has a territorial enclave in Switzerland (Campione) and a maritime exclave in Tunisian waters (Lampedusa). With around 60 million inhabitants, Italy is the third-most populous member state of the European Union.",
+			"name":"Italy"
+		},
+		{
+			"lang":"ru",
+			"capital":"Рим",
+			"description":"Ита́лия (итал. Italia [iˈtaːlja]), официальное название — Италья́нская Респу́блика (итал. Repubblica Italiana [reˈpubːlika itaˈljaːna]) — государство в Южной Европе, в центре Средиземноморья. Входит в Евросоюз и НАТО с момента их создания, является третьей по величине экономикой еврозоны.  Граничит с Францией на северо-западе (протяжённость границы — 488 км), Швейцарией (740 км) и Австрией (430 км) — на севере, Словенией — на северо-востоке (232 км).  Внутри территории Италии находятся два государства-анклава: государство Сан-Марино и расположенное внутри территории Рима ассоциированное с Италией государство Ватикан, с каждым из которых Италия имеет внутреннюю границу протяжённостью соответственно 39 км и 3,2 км.  Занимает Апеннинский полуостров, крайний северо-запад Балканского полуострова, Паданскую равнину, южные склоны Альп, острова Сицилия, Сардиния и ряд мелких островов.  На территории Италии находится 55 памятников Всемирного наследия ЮНЕСКО — Италия разделяет с Китаем первое место по их количеству.",
+			"name":"Италия"
+		}
+	]
+}
+
+{
+	"capitalLocation":{
+		"coordinates":[{"$numberDouble":"2.3488"},{"$numberDouble":"48.8534"}],
+		"type":"Point"
+		},
+	"imageUrl":"https://wikiway.com/upload/hl-photo/1ef/de0/notr-dam-de-pari_145.jpg",
+	"videoUrl":"https://www.youtube.com/watch?v=zTjnQ0XlAc4",
+	"currency":"EUR",
+	"ISOCode":"FR",
+	"localizations":[
+		{
+			"lang":"en",
+			"capital":"Paris",
+			"description":"France, officially the French Republic — is a transcontinental state that includes the main territory in Western Europe and a number of overseas regions and territories. Most of France is located in Western Europe, its mainland is bordered to the northeast by Belgium, Luxembourg and Germany, to the east by Switzerland, to the southeast by Monaco and Italy, to the southwest by Spain and Andorra, and to the north by the maritime border with Great Britain. France is the largest country in Western Europe by territory: it occupies almost one-fifth of the territory of the European Union, has extensive maritime spaces. The state also includes the island of Corsica in the Mediterranean Sea and more than twenty overseas departments and dependent territories.",
+			"name":"France"
+		},
+		{
+			"lang":"ru",
+			"capital":"Париж",
+			"description":"Фра́нция, официальное название — Францу́зская Респу́блика — трансконтинентальное государство, включающее основную территорию в Западной Европе и ряд заморских регионов и территорий. Большая часть Франции расположена в Западной Европе, её материковая часть на северо-востоке граничит с Бельгией, Люксембургом и Германией, на востоке — со Швейцарией, на юго-востоке — с Монако и Италией, на юго-западе — с Испанией и Андоррой, на севере имеется морская граница с Великобританией. Франция является самой крупной по территории страной Западной Европы: она занимает почти одну пятую часть территории Европейского Союза, имеет обширные морские пространства. Также в состав государства входят остров Корсика в Средиземном море и более двадцати заморских департаментов и зависимых территорий.",
+			"name":"Франция"
+		}
+	]
+}
+
+{
+	"capitalLocation":{
+		"coordinates":[{"$numberDouble":"13.4105"},{"$numberDouble":"52.5244"}],
+		"type":"Point"
+		},
+	"imageUrl":"https://avatars.mds.yandex.net/get-zen_doc/1931555/pub_5ccf31227ae9ed00b3a1a9b0_5ccf313dac1ad900b3c69f8d/scale_1200",
+	"videoUrl":"https://www.youtube.com/watch?v=IPbzWJNmndY",
+	"currency":"EUR",
+	"ISOCode":"DE",
+	"localizations":[
+		{
+			"lang":"en",
+			"capital":"Berlin",
+			"description":"Germany, officially the Federal Republic of Germany, is a state in Central Europe. The area of the territory is 357,408.74 km2. The population is 83,149,300 inhabitants. Located in the center of Europe, Germany is washed by the waters of the Baltic and North Seas. It borders Denmark to the north, Poland and the Czech Republic to the east, Austria and Switzerland to the south, France, Luxembourg, Belgium and the Netherlands to the west. Germany is one of the founding countries and a member of the European Union, a member of NATO, and a member of the «Big Seven». About 65 % of the population professes Christianity.",
+			"name":"Germany"
+		},
+		{
+			"lang":"ru",
+			"capital":"Берлин",
+			"description":"Герма́ния, официальное название — Федерати́вная Респу́блика Герма́ния, ФРГ — государство в Центральной Европе. Площадь территории — 357 408,74 км². Численность населения — 83 149 300 жителей. Расположенная в центре Европы Германия омывается водами Балтийского и Северного морей. Граничит с Данией на севере, Польшей и Чехией на востоке, Австрией и Швейцарией на юге, Францией, Люксембургом, Бельгией и Нидерландами на западе. Германия является одной из стран-основателей и членом Европейского союза, членом НАТО, входит в «Большую семёрку». Около 65 % населения исповедует христианство.",
+			"name":"Германия"
+		}
+	]
+}
+
+{
+	"capitalLocation":{
+		"coordinates":[{"$numberDouble":"7.44744"},{"$numberDouble":"46.9481"}],
+		"type":"Point"
+		},
+	"imageUrl":"https://avatars.mds.yandex.net/get-zen_doc/1898595/pub_5ff4767af906b16872c00206_5ffb37f0fe4e686f6a91284c/scale_1200",
+	"videoUrl":"https://www.youtube.com/watch?v=3ldqFSVOxIU",
+	"currency":"CHF",
+	"ISOCode":"CH",
+	"localizations":[
+		{
+			"lang":"en",
+			"capital":"Bern",
+			"description":"Switzerland, officially the Swiss Confederation — is a federal republic consisting of 26 cantons with federal authorities in Bern. Switzerland is located at the crossroads of western, central and southern Europe, is landlocked and borders Italy to the south, France to the west, Germany to the north, and Austria and Liechtenstein to the east. The country is geographically divided between the Alps, the Swiss plateau and the Jura, covering a total area of 41,285 km2. While the Alps occupy most of the territory, Switzerland's population of approximately 8.5 million people is mainly concentrated on the plateau, where the largest cities are located, including two global ones — Zurich and Geneva",
+			"name":"Switzerland"
+		},
+		{
+			"lang":"ru",
+			"capital":"Берн",
+			"description":"Швейца́рия, официально — Швейца́рская Конфедера́ция — федеративная республика, состоящая из 26 кантонов с федеральными властями в Берне. Швейцария расположена на стыке западной, центральной и южной Европы, не имеет выхода к морю и граничит с Италией на юге, Францией на западе, Германией на севере и Австрией и Лихтенштейном на востоке. Страна географически разделена между Альпами, швейцарским плато и Юрой, охватив общую площадь 41 285 км². В то время как Альпы занимают большую часть территории, население Швейцарии численностью примерно 8,5 млн человек в основном сосредоточено на плато, где расположены крупнейшие города, в том числе два глобальных — Цюрих и Женева",
+			"name":"Швейца́рия"
+		}
+	]
+}
+
+{
+	"capitalLocation":{
+		"coordinates":[{"$numberDouble":"-0.12574"},{"$numberDouble":"51.5085"}],
+		"type":"Point"
+		},
+	"imageUrl":"https://new-science.ru/wp-content/uploads/2019/12/78587-6-1536x1152.jpg",
+	"videoUrl":"https://www.youtube.com/watch?v=wSHXd-K-jIk",
+	"currency":"GBP",
+	"ISOCode":"GB",
+	"localizations":[
+		{
+			"lang":"en",
+			"capital":"London",
+			"description":"Great Britain or the United Kingdom, the full official form — the United Kingdom of Great Britain and Northern Ireland — is an island state in the north-west of continental Europe. The United Kingdom of Great Britain was formed in 1707 as a result of the political unification of the kingdoms of Scotland and England. In 1800, the Kingdom of Great Britain and the Kingdom of Ireland merged to form the United Kingdom of Great Britain and Ireland, which, after the separation of the Irish Free State from it in 1922, became known as the United Kingdom of Great Britain and Northern Ireland. The United Kingdom is one of the largest states in Europe, a nuclear power since 1952, a permanent member of the UN Security Council, and a former metropolis of the British Empire. The British monarch is also the head of 15 other independent states and the head of the Commonwealth.",
+			"name":"Great Britain"
+		},
+		{
+			"lang":"ru",
+			"capital":"Лондон",
+			"description":"Великобрита́ния или Соединённое Короле́вство, полная официальная форма — Соединённое Короле́вство Великобрита́нии и Се́верной Ирла́ндии — островное государство на северо-западе от континентальной Европы. Единое Королевство Великобритания образовалось в 1707 году вследствие политического объединения королевств Шотландии и Англии. В 1800 году Королевство Великобритания и Королевство Ирландия объединились, образовав Соединённое Королевство Великобритании и Ирландии, которое после отделения от него в 1922 году Ирландского Свободного государства стало именоваться Соединённым Королевством Великобритании и Северной Ирландии. Великобритания — одно из крупнейших государств Европы, ядерная держава с 1952 года, постоянный член Совета Безопасности ООН, бывшая метрополия Британской империи. Британский монарх также является главой 15 иных независимых государств и главой Содружества.",
+			"name":"Великобрита́ния"
+		}
+	]
+}
+
+{
+	"capitalLocation":{
+		"coordinates":[{"$numberDouble":"4.88969"},{"$numberDouble":"52.374"}],
+		"type":"Point"
+		},
+	"imageUrl":"https://img.fonwall.ru/o/ot/amsterdam-amsterdam-stolica-i-krupneyshiy-gorod-niderlandov-niderlandy-ytyq.jpg",
+	"videoUrl":"https://www.youtube.com/watch?v=wAppCTDtW3Y",
+	"currency":"EUR",
+	"ISOCode":"NL",
+	"localizations":[
+		{
+			"lang":"en",
+			"capital":"Amsterdam",
+			"description":"The Netherlands is a country consisting of the main territory in Western Europe and the islands of Bonaire, Sint Eustatius and Saba in the Caribbean Sea (also called the Caribbean Netherlands). In Western Europe, the territory is washed by the North Sea and borders with Germany and Belgium. Together with the islands of Aruba, Curacao and Sint Maarten, which have a special status, the Netherlands is part of the Kingdom of the Netherlands. Relations between the members of the Kingdom are governed by the Charter of the Kingdom of the Netherlands, adopted in 1954. The official capital of the state, according to the Constitution of the Netherlands, is Amsterdam, where the monarch takes the oath of allegiance to the Constitution. At the same time, the actual capital is The Hague, where the royal residence, the parliament and the government, as well as most of the embassies of foreign countries are located. The Netherlands is a member of the UN, NATO, the Council of Europe, the European Union, and the OECD. Part of the Schengen area and the Benelux.",
+			"name":"Netherlands"
+		},
+		{
+			"lang":"ru",
+			"capital":"Амстердам",
+			"description":"Нидерла́нды — государство, состоящее из основной территории в Западной Европе и островов Бонэйр, Синт-Эстатиус и Саба в Карибском море (называемых также Карибскими Нидерландами). В Западной Европе территория омывается Северным морем и граничит с Германией и Бельгией. Вместе с островами Аруба, Кюрасао и Синт-Мартен, имеющими особый статус, Нидерланды входят в Короле́вство Нидерла́ндов. Отношения между членами королевства регулируются Хартией Королевства Нидерландов, принятой в 1954 году. Официальной столицей государства, согласно конституции Нидерландов, является Амстердам, где монарх приносит присягу на верность Конституции. При этом фактической столицей является Гаага, где расположены королевская резиденция, парламент и правительство, а также большинство посольств иностранных государств. Нидерланды — член ООН, НАТО, Совета Европы, Европейского союза, ОЭСР. Часть шенгенской зоны и Бенилюкса.",
+			"name":"Нидерла́нды"
+		}
+	]
+}
+
+{
+	"capitalLocation":{
+		"coordinates":[{"$numberDouble":"14.4208"},{"$numberDouble":"50.088"}],
+		"type":"Point"
+		},
+	"imageUrl":"https://avia-all.ru/uploads/posts/2020-06/1592840248_16571-1080p-b7017-7ac2a-06b79-68418-ffab8-1abdd-09794-d4d25.jpg",
+	"videoUrl":"https://www.youtube.com/watch?v=DaHgJP1MbtA",
+	"currency":	"CZK",
+	"ISOCode":"CZ",
+	"localizations":[
+		{
+			"lang":"en",
+			"capital":"Prague",
+			"description":"The Czech Republic is officially the Czech Republic, a state in Central Europe. It borders Poland to the north, Germany to the northwest and west, Austria to the south, and Slovakia to the east. The total length of the border is 2324 km. The area is 78,866 km2. The modern Czech Republic was formed as a result of the collapse of Czechoslovakia on January 1, 1993. The country includes the historical regions of Bohemia, Moravia and part of Silesia. A unitary state. The capital city of Prague is a tourist attraction and the largest city in the country. The Czech Republic has been a member of NATO since March 12, 1999, and a member of the European Union since May 1, 2004.",
+			"name":"Czech"
+		},
+		{
+			"lang":"ru",
+			"capital":"Прага",
+			"description":"Че́хия официально — Че́шская Респу́блика — государство в Центральной Европе. Граничит с Польшей на севере , Германией — на северо-западе и западе, Австрией — на юге и Словакией — на востоке. Общая протяжённость границы — 2324 км. Площадь — 78 866 км². Современная Чехия образовалась в результате распада Чехословакии 1 января 1993 года. Страна включает исторические области — Богемию, Моравию и часть Силезии. Унитарное государство. Столица Прага — туристическая достопримечательность и крупнейший город страны. С 12 марта 1999 года Чехия — член НАТО, с 1 мая 2004 года — член Европейского союза.",
+			"name":"Че́хия"
+		}
+	]
+}
+
+
+{
+	"capitalLocation":{
+		"coordinates":[{"$numberDouble":"21.0118"},{"$numberDouble":"52.2298"}],
+		"type":"Point"
+		},
+	"imageUrl":"https://travel-trip.ru/wp-content/uploads/2020/04/33.jpg",
+	"videoUrl":"https://www.youtube.com/watch?v=6KjOfVTX10Q",
+	"currency":	"PLN",
+	"ISOCode":"PL",
+	"localizations":[
+		{
+			"lang":"en",
+			"capital":"Warsaw",
+			"description":"Poland, officially the Republic of Poland — is a country in Central Europe. According to the results of 2015, the population is 38,623,221 people[11], the territory is 312,679 km2. It ranks 37th in the world in terms of population and 69th in terms of territory. The capital is Warsaw. The official language is Polish. Located in the center of Europe. It is washed in the north by the Baltic Sea. It has a land border with Russia (Kaliningrad region), Lithuania, Belarus, Ukraine, Slovakia, the Czech Republic and Germany.",
+			"name":"Poland"
+		},
+		{
+			"lang":"ru",
+			"capital":"Варшава",
+			"description":"По́льша, официальное название — Респу́блика По́льша — государство в Центральной Европе. Население по итогам 2015 года составляет 38 623 221 человек[11], территория — 312 679 км². Занимает 37-е место в мире по численности населения и 69-е по территории. Столица — Варшава. Государственный язык — польский. Расположена в центре Европы. Омывается на севере Балтийским морем. Имеет сухопутную границу с Россией (Калининградской областью), Литвой, Белоруссией, Украиной, Словакией, Чехией и Германией.",
+			"name":"По́льша"
+		}
+	]
+}
+
+
+{
+	"capitalLocation":{
+		"coordinates":[{"$numberDouble":"23.3242"},{"$numberDouble":"42.6975"}],
+		"type":"Point"
+		},
+	"imageUrl":"https://geo-1.ru/wp-content/uploads/2018/11/20-1.jpg",
+	"videoUrl":"https://www.youtube.com/watch?v=0_iBydpx7iQ",
+	"currency":	"BGN",
+	"ISOCode":"BG",
+	"localizations":[
+		{
+			"lang":"en",
+			"capital":"Sofia",
+			"description":"Bulgaria, officially the Republic of Bulgaria, is a country in South-Eastern Europe, in the eastern part of the Balkan Peninsula, occupying 22% of its area. The population is 6,951,482 people, the territory is 110,993 km2. It ranks 103rd in the world in terms of territory and 107th in terms of population. In the European Union, it ranks 11th and 16th in terms of territory and population, respectively. In the east, it is washed by the Black Sea. It borders Greece and Turkey to the south, Serbia and Northern Macedonia to the west, and Romania to the north. The total length of the borders is 2,245 km, of which 1,181 km is land, 686 km is river (of which 470 km is on the Danube) and 378 km is on the Black Sea. The largest distance between the extreme geographical points is 520 km from west to east and 330 km from north to south.",
+			"name":"Bulgaria"
+		},
+		{
+			"lang":"ru",
+			"capital":"София",
+			"description":"Болга́рия, официально — Респу́блика Болга́рия — государство в Юго-Восточной Европе, в восточной части Балканского полуострова, занимает 22 % его площади. Население — 6 951 482 чел., территория — 110 993 км². Занимает 103-е место в мире по территории и 107-е по численности населения. В Европейском союзе занимает 11-е и 16-е места по территории и численности населения, соответственно. На востоке омывается Чёрным морем. Граничит с Грецией и Турцией на юге, с Сербией и Северной Македонией — на западе и с Румынией — на севере. Общая длина границ — 2245 км, из них 1181 км — сухопутные, 686 км — речные (из которых 470 км проходят по Дунаю) и 378 км — по Чёрному морю. Самое большое расстояние между крайними географическими точками — 520 км с запада на восток и 330 км с севера на юг.",
+			"name":"Болга́рия"
+		}
+	]
+}
+
